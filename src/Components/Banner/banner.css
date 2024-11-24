@@ -1,0 +1,9 @@
+.banner{
+    background-image:  url(../../assets/Imges/bg-shadow.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 16px;
+ 
+   
+}
